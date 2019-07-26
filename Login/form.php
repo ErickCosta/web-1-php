@@ -5,7 +5,7 @@
     	<style type="text/css">
     	
 	       input{
-	           margin-left: 5%;
+	           margin-left: 6%;
 	           height: 30px;
 	           width: 220px;
 	           font-size: 20px;
@@ -16,7 +16,8 @@
            }
            
            body{
-                background-image: url("imagens/back-top.jpg");	
+                background-image: url("imagens/back-top.jpg");
+                background-size: cover;
            }
            
            #form {
@@ -25,11 +26,11 @@
                margin-left: 40%;
                margin-top: 15%;
 	           width: 250px;
-	           height: 280px;
+	           height: 250px;
 	           background-color: white;
            }
            
-           #submit{
+           #submit{ 
                 margin-top: 15px;
                 margin-left: 35%;
                 width: 70px;
@@ -37,11 +38,17 @@
                 border: 1px solid;
                 border-radius: 5px;
                 font-size: 16px;
+                background-color: #4682B4;
+                color: white;
+                border-color: black;
            }
            
            h3{
                 font-size: 24px;
-                margin-left: 5%;
+                margin-left: 6%;
+                font-style: normal;
+                font-family: sans-serif;
+                margin-bottom: 10px;
            }
            	   
 	     </style>

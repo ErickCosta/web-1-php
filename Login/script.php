@@ -32,6 +32,7 @@
            
            #topo{
                 background-image: url("imagens/back-top.jpg");
+                background-size: cover;	
                 height: 10%;
                 width: 100%;
            }
@@ -45,6 +46,7 @@
            
            #menu{
                 background-image: url("imagens/back-top.jpg");
+                background-size: cover;	
                 height: 90%;
                 width: 10%;
            }
